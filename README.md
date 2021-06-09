@@ -1,2 +1,4 @@
-# Projet Front-End
-Le projet Front-end nous a permit de mettre en avant nos compétences sur différents langages tels que le HTML, CSS et JavaScript. Le but de ce projet était de créer une plateforme de divertissement web : Marquee & Chartreuse. Nous avons en tout fait 6 jeux : le Juste Prix, Tally click counter, Chiffre de César, Pixel Drawer, Puissance 4 et le Snake ainsi qu'un Simon Says en cours de développement. Ce projet a généré un esprit de groupe, d'équipe et d'entraide. Ma tâche était de coder le jeu de Chiffre de César. Dans le cadre de ce projet, j'ai pu développer mes capacités en utilisant différents langages tels que le HTML, le CSS et le JS.
+# Projet Python
+Nous avons fait un projet en groupe de 3 dont le but était de créer un jeu RPG.
+
+Ce premier projet Python a été réalisé sur Pygame, ce projet nous a permit de comprendre le language Python.
